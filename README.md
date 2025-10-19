@@ -14,17 +14,6 @@ Each task represents a key stage in the data science workflow — from cleaning 
 │   ├── data_cleaning.py
 │   ├── dataset.csv
 │   └── cleaned_dataset.csv
-│
-├── Task 2 - Exploratory Data Analysis (EDA)
-│   ├── eda_titanic.py
-│   ├── titanic.csv
-│   └── eda_report.pdf
-│
-└── Task 3 - Time Series Analysis
-    ├── time_series_analysis.py
-    ├── airline-passengers.csv
-    └── forecast_plot.png
-```
 
 ---
 
@@ -42,27 +31,9 @@ Through this task, key skills such as data profiling, cleaning, and preprocessin
 
 ---
 
-##Task 2 – Exploratory Data Analysis (EDA)
-
-This task involved exploring datasets to identify hidden patterns, relationships, and key insights through visualizations and statistical analysis.
-Key steps included handling missing data, analyzing feature distributions, studying correlations, and visualizing relationships using `matplotlib` and `seaborn`.
-The Titanic dataset was used as the primary example for EDA.
-
----
-
-#Task 3 – Time Series Analysis
-
-In this task, historical time-dependent data was analyzed to detect trends and seasonal patterns, followed by forecasting future values.
-Using the Airline Passengers dataset (1949–1960), techniques such as moving averages, decomposition, and ARIMA modeling were applied to identify periodic behavior and make accurate predictions.
-
----
-
 # Key Skills Demonstrated
 
 * Data Cleaning and Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Time Series Forecasting
 * Libraries Used: `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `sklearn`
 
 ---
